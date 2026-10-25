@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23646705.svg)](https://doi.org/10.5281/zenodo.23646705)
-
+[[ORCID](https://orcid.org/badge/ORCID-iD.svg)](https://orcid.org/0009-0009-5423-6389) Lucky Pandey
 # Pandey Curiosity Constraint
 **Permanent DOI: 10.5281/zenodo.23646705 — Archived 25 Oct 2026, Kishangarh, India**
 
